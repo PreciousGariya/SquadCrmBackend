@@ -1,0 +1,14 @@
+[
+    {
+        "model-name": "/Module/State",
+        "resource-file": "/_module/_states.json"
+    },
+    {
+        "model-name": "State",
+        "resource-file": "states.json"
+    },
+    {
+        "model-name": "backend/State",
+        "resource-file": "backend/_states.json"
+    }
+]
