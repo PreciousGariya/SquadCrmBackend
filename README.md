@@ -1,4 +1,3 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/396987/82162573-6940f500-98c7-11ea-974e-888b4f866c74.jpg" alt="Laravel Starter - A CMS like modular starter project built with Laravel"></p>
 
 # Laravel Starter (based on Laravel 9.x)
 **Laravel Starter** is a Laravel 9.x based simple starter project. Most of the commonly needed features of an application like Authentication, User and Role management Application Backend, Backup, Logviewer are available here. It is modular, so you can use this project as a base and build your own modules. You can use the same module in any of the `Laravel Starter` based projects. 
@@ -11,7 +10,6 @@ If you discover any security related issues, please send an e-mail to Nasir Khan
 # Appplication Demo
 Check the following demo project. It is just a straight installation of the project without any modification.
 
-Demo URL: http://laravel.nasirkhn.com
 
 ```
 User: super@admin.com
@@ -129,29 +127,3 @@ FontAwesome & CoreUI Icons, two different font icon library is installed for the
 * **FontAwesome** - https://fontawesome.com/search?m=free
 * **CoreUI Icons** - https://icons.coreui.io/icons/
 
-
-# Screenshots
-
-__Home Page__
-
-![Laravel Starter Home](https://user-images.githubusercontent.com/396987/164892584-733afddc-8eab-4152-bd4a-d9c2f9e312d5.png)
-
-__Login Page__
-
-![Laravel Starter Login](https://user-images.githubusercontent.com/396987/164892620-3b4c8b1b-81c8-4630-a39f-38dadff89a7d.png)
-
-__Posts Page__
-
-![Laravel Starter Posts Page](https://user-images.githubusercontent.com/396987/164892767-2f961466-e346-4990-a183-655ce5a6603b.png)
-
-__Backend Dashboard__
-
-![Backend Dashboard](https://user-images.githubusercontent.com/396987/164915155-c2984b18-ae96-408a-820a-cbcac2cceb10.png)
-
----
-
-![List-Posts-Laravel-Starter](https://user-images.githubusercontent.com/396987/88519250-a0dcc380-d013-11ea-9dc5-9d731af611f1.jpg)
-
----
-
-![Edit-Posts-Laravel-Starter](https://user-images.githubusercontent.com/396987/88519360-d1bcf880-d013-11ea-9f6c-b5d33912057f.jpg)
